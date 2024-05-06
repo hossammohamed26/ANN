@@ -41,10 +41,6 @@ To use the Artificial Neural Network (ANN) algorithm, follow these steps:
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 The implementation of the Artificial Neural Network (ANN) algorithm is based on the work of researchers and contributors in the field of machine learning and artificial intelligence. The code in this repository is provided for educational purposes and serves as a starting point for further exploration and experimentation.
